@@ -1,0 +1,11 @@
+// Font size
+$font_size_m: 2rem;
+$font_size_l: 3rem;
+// Font Family
+$font_consolas: Consolas, "Times New Roman", serif;
+// Line Height
+$line_m: 3rem;
+$line_l: 4rem;
+// Fonts full
+$font_m: $font_size_m, $line_m, $font_consolas;
+$font_l: $font_size_l, $line_l, $font_consolas;
